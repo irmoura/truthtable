@@ -1,0 +1,11 @@
+C:\Projetos\BooleanExpressions\bin\Debug\BooleanExpressions.exe.config
+C:\Projetos\BooleanExpressions\bin\Debug\BooleanExpressions.exe
+C:\Projetos\BooleanExpressions\bin\Debug\BooleanExpressions.pdb
+C:\Projetos\BooleanExpressions\obj\Debug\BooleanExpressions.csproj.AssemblyReference.cache
+C:\Projetos\BooleanExpressions\obj\Debug\BooleanExpressions.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\BooleanExpressions\obj\Debug\BooleanExpressions.Form1.resources
+C:\Projetos\BooleanExpressions\obj\Debug\BooleanExpressions.Properties.Resources.resources
+C:\Projetos\BooleanExpressions\obj\Debug\BooleanExpressions.csproj.GenerateResource.cache
+C:\Projetos\BooleanExpressions\obj\Debug\BooleanExpressions.csproj.CoreCompileInputs.cache
+C:\Projetos\BooleanExpressions\obj\Debug\BooleanExpressions.exe
+C:\Projetos\BooleanExpressions\obj\Debug\BooleanExpressions.pdb
